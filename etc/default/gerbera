@@ -1,0 +1,3 @@
+GERBERA_CONFIG=/etc/gerbera/config.xml
+DESC="Gerbera UPnP media server"
+
